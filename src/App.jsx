@@ -1,7 +1,7 @@
 import Aboutuse from "./pages/about/aboutUs";
 import Home from "./pages/home/home";
 import Nextpage from "./pages/pagebox/linkbox";
-import { HashRouter as Route,Routes } from "react-router-dom";
+import {  Route,Routes } from "react-router-dom";
   function App() {
   return (
      
