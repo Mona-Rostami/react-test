@@ -9,7 +9,7 @@ import {  Route,Routes } from "react-router-dom";
         <Routes>
         <Route path="/" element={<Home />}/>
       <Route path="/about"element={<Aboutuse/>}/>
-      <Route path="/newp/:id" element={<Nextpage/>}></Route>
+      <Route path="/newp/:id" element={<Nextpage/>}/>
         </Routes>
       </div>
     
