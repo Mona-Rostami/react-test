@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://mona-rostami.github.io/react-test",
+  "homepage": "https://Mona-Rostami.github.io/react-test",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
