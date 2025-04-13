@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.button {
+  width: 20vw;
+  height: 6vh;
+  background-color: #004445;
+  font-size: 2vh;
+  font-family: monospace;
+  font-weight: bold;
+  display: inline-block;
+  margin-top: 4vw;
+  margin-left: 55vw;
+  color:#F4F9F4;
+  border-radius: 10px;
+}
+.button:hover{
+color: #3bc189;
+}
+.parent{
+  width: 100vw;
+  height:200vh;
+  background-color: #EFEAD8;
+}

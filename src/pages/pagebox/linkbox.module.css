@@ -1,0 +1,53 @@
+.post img{
+width: 40vw;
+height: 50vh;
+}
+.text h1{
+padding-top: 50vh;
+}
+.post{
+    display: flex;
+    justify-content: center;
+    margin-top: 8vh;
+}
+.text{
+    text-align:justify;
+    direction: rtl;
+    margin-top: 5vh;
+    font-size:2vh;
+    word-spacing: 5px;
+    line-height: 1.5;
+
+}
+
+@media(max-width:600px){
+    .post img{
+        width: 70vw;
+        height: 30vh;
+        }
+        .text h1{
+        padding-top: 40vh;
+        }
+        .post{
+            display: flex;
+            justify-content: center;
+            margin-top: 8vh;
+        }
+        .text{
+            text-align:justify;
+            direction: rtl;
+            margin-top: 5vh;
+            font-size:15px;
+            word-spacing: 5px;
+            line-height: 1.5;
+        
+        }
+}
+.Loadings{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(8, 8, 8, 0.954);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
